@@ -1,0 +1,11 @@
+Install and activate All office version. 
+Power shell:  
+irm https://massgrave.dev/get | iex       Activate Windows / Office
+irm msgang.com/ospp | iex		Navigating to installation location of Office
+irm msgang.com/dstatus | iex		Checking the license status
+irm msgang.com/office | iex		Activate all Office version for free:
+irm msgang.com/officeremkeys | iex	Remove all installed product keys
+irm msgang.com/install | iex		Download and install all Office versions:
+irm msgang.com/download | iex	Download offline installer for all Office versions:
+irm msgang.com/uninstaller | iex	Completely remove all install Microsoft Office apps
+irm msgang.com/officer2v | iex		Convert Office Retail to Office Volume (All versions)
