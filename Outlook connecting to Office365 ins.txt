@@ -1,0 +1,4 @@
+Outlook connecting to Office365 instead of on-premise Exchange server:
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\office\16.0\outlook\autodiscover  
+DWORD: ExcludeExplicitO365Endpoint  
+Value = 1  
